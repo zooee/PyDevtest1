@@ -13,7 +13,4 @@ print ('serving Http on port 8000...')
 
 httpd.serve_forever()
 
-print 'hello'
-print 'hello'
-print 'hello'
 
